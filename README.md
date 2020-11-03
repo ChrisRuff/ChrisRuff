@@ -24,7 +24,7 @@ const experience = [
   "Frameworks/Tools": ["CMake", "Conan", "CircleCI", "OpenCV", "Doxygen", "Doctest"],
   "Project": "[Ruff Library](https://github.com/ChrisRuff/Ruff)",
   "Roles": ["Software Engineer", "Lead Developer"],
-  "Description": "Self made library for various uses such as 
+  "Description": "Self made library for various uses such as \
     pathfinding, 2D UI engine, Euler challenges, and whatever else I find interesting"
 },
 {
@@ -45,5 +45,5 @@ const experience = [
 ## What are my interests? ##
 * I love the speed and control C++ provides programming. The level of control that one can have over the program to ensure proper usage is my bread and butter
   * `[[nodiscard]] int keepReturnResult(int);`
-  * `class Ex { int a{1}; int doesntChangeState() const { return a; } }; 
+  * `class Ex { int a{1}; int doesntChangeState() const { return a; } };` 
 * Another one of my interest is machine learning and I have quite a bit of experience using python to create neural networks.
