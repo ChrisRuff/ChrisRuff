@@ -4,9 +4,13 @@
 ## I'm currently in Software Engineering at the University of New Brunswick. ##
 ```cpp
 #include <vector> 
-#include <string>
-const std::vector<std::string> languages{
-  "C++", "C#", "C", "Java", "Javascript", "Python"
+#include <string_view>
+const std::vector<std::string_view> languages{
+  "C++", "C#", "C", "Java", "Javascript", "Python", "Bash"
+  }
+const std::vector<std::string_view> frameworks_tools{
+  "Qt", "React", "Django", "Doctest", "CircleCI", "Tensorflow",
+  "Conan", "CMake"
   }
 ```
 ## I have experience in many different projects ##
