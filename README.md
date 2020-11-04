@@ -10,7 +10,7 @@ const std::vector<std::string> languages{
   }
 ```
 ## I have experience in many different projects ##
-<pre><code class="javascript">
+<pre><code class="language-javascript">
 const experience = [
 {
   "Languages": ["C#", "Javascript"],
@@ -22,7 +22,7 @@ const experience = [
 {
   "Languages": ["C++"],
   "Frameworks/Tools": ["CMake", "Conan", "CircleCI", "OpenCV", "Doxygen", "Doctest"],
-  "Project": "[Ruff Library](https://github.com/ChrisRuff/Ruff)",
+  "Project": "<a href="https://github.com/ChrisRuff/Ruff">Ruff Library</a>",
   "Roles": ["Software Engineer", "Lead Developer"],
   "Description": "Self made library for various uses such as \
     pathfinding, 2D UI engine, Euler challenges, and whatever else I find interesting"
@@ -32,14 +32,14 @@ const experience = [
   "Frameworks/Tools": ["CMake", "OpenCV"],
   "Project": "Mach85DIC Software",
   "Roles": ["Developer"],
-  "Description": "Worked as a developer on [Mach85](http://mach85.com/) digitial image correlation software"
+  "Description": "Worked as a developer on <a href="http://mach85.com/">Mach85</a> digitial image correlation software"
 },
 {
   "Languages": ["Python", "C++"],
-  "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "[Mask_RCNN](https://github.com/matterport/Mask_RCNN)"],
+  "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "<a href="https://github.com/matterport/Mask_RCNN">Mask_RCNN</a>"],
   "Project": "Mach85DIC AI Software",
   "Roles": ["Lead Developer"]
-  "Description": "Created from scratch a deep learning software for [Mach85](http://mach85.com/)"
+  "Description": "Created from scratch a deep learning software for <a href="http://mach85.com/">Mach85</a>"
 }]
 </code></pre>
 ## What are my interests? ##
