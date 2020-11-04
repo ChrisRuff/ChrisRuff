@@ -10,7 +10,7 @@ const std::vector<std::string> languages{
   }
 ```
 ## I have experience in many different projects ##
-<pre><code class="language-javascript">
+```javascript
 const experience = [
 {
   "Languages": ["C#", "Javascript"],
@@ -22,7 +22,7 @@ const experience = [
 {
   "Languages": ["C++"],
   "Frameworks/Tools": ["CMake", "Conan", "CircleCI", "OpenCV", "Doxygen", "Doctest"],
-  "Project": "<a href="https://github.com/ChrisRuff/Ruff">Ruff Library</a>",
+  "Project": "Ruff Library",
   "Roles": ["Software Engineer", "Lead Developer"],
   "Description": "Self made library for various uses such as \
     pathfinding, 2D UI engine, Euler challenges, and whatever else I find interesting"
@@ -32,16 +32,16 @@ const experience = [
   "Frameworks/Tools": ["CMake", "OpenCV"],
   "Project": "Mach85DIC Software",
   "Roles": ["Developer"],
-  "Description": "Worked as a developer on <a href="http://mach85.com/">Mach85</a> digitial image correlation software"
+  "Description": "Worked as a developer on Mach85 digitial image correlation software"
 },
 {
   "Languages": ["Python", "C++"],
-  "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "<a href="https://github.com/matterport/Mask_RCNN">Mask_RCNN</a>"],
+  "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "Mask_RCNN"],
   "Project": "Mach85DIC AI Software",
   "Roles": ["Lead Developer"]
-  "Description": "Created from scratch a deep learning software for <a href="http://mach85.com/">Mach85</a>"
+  "Description": "Created from scratch a deep learning software for Mach85"
 }]
-</code></pre>
+```
 ## What are my interests? ##
 * I love the speed and control C++ provides programming. The level of control that one can have over the program to ensure proper usage is my bread and butter
   * `[[nodiscard]] int keepReturnResult(int);`
