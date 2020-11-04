@@ -10,7 +10,7 @@ const std::vector<std::string> languages{
   }
 ```
 ## I have experience in many different projects ##
-<pre><code class="language-javascript">
+<pre><code class="javascript">
 const experience = [
 {
   "Languages": ["C#", "Javascript"],
