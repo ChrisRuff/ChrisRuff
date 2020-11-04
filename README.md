@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/ii7R0hFjKIS4poVDrk/giphy.gif">
 
-# Hey there! My name is Chris Ruff and welcome to my Github page. #
+# Hey there! My name is Chris Ruff #
 ## I'm currently in Software Engineering at the University of New Brunswick. ##
 ```cpp
 #include <vector> 
