@@ -10,7 +10,7 @@ const std::vector<std::string> languages{
   }
 ```
 ## I have experience in many different projects ##
-```javascript
+<pre><code class="language-javascript">
 const experience = [
 {
   "Languages": ["C#", "Javascript"],
@@ -41,7 +41,7 @@ const experience = [
   "Roles": ["Lead Developer"]
   "Description": "Created from scratch a deep learning software for [Mach85](http://mach85.com/)"
 }]
-``` 
+</code></pre>
 ## What are my interests? ##
 * I love the speed and control C++ provides programming. The level of control that one can have over the program to ensure proper usage is my bread and butter
   * `[[nodiscard]] int keepReturnResult(int);`
