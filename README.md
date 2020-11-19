@@ -36,14 +36,14 @@ const experience = [
   "Frameworks/Tools": ["CMake", "OpenCV"],
   "Project": "Mach85DIC Software",
   "Roles": ["Developer"],
-  "Description": "Worked as a developer on Mach85 digitial image correlation software"
+  "Description": "Worked as a developer on Mach85 digital image correlation software"
 },
 {
   "Languages": ["Python", "C++"],
   "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "Mask_RCNN"],
   "Project": "Mach85DIC AI Software",
   "Roles": ["Lead Developer"]
-  "Description": "Created from scratch a deep learning software for Mach85"
+  "Description": "Created a deep learning software for Mach85"
 }]
 ```
 ## What are my interests? ##
