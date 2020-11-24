@@ -36,21 +36,26 @@ const experience = [
   "Frameworks/Tools": ["CMake", "OpenCV"],
   "Project": "Mach85DIC Software",
   "Roles": ["Developer"],
-  "Description": "Worked as a developer on Mach85 digital image correlation software"
+  "Description": "Worked as a developer on Mach85 digital image correlation software. \
+    This worked complicated optical problem solving such as Left-Right stereo image correlation \
+     as well as Left-Left stereo image correlation."
 },
 {
   "Languages": ["Python", "C++"],
-  "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "Mask_RCNN"],
+  "Frameworks/Tools": ["CMake", "OpenCV", "Tensorflow", "Mask_RCNN", "CVAT"],
   "Project": "Mach85DIC AI Software",
   "Roles": ["Lead Developer"]
   "Description": "Created a deep learning software for Mach85"
 }]
 ```
+
 ## What are my interests? ##
 * I love the speed and control C++ provides programming. The level of control that one can have over the program to ensure proper usage is my bread and butter
   * `[[nodiscard]] int keepReturnResult(int);`
   * `class Ex { int a{1}; int doesntChangeState() const { return a; } };` 
+  * std::unique_ptr<int> p{new int}; // Only use these when neccessary
 * Another one of my interest is machine learning and I have quite a bit of experience using python to create neural networks.
-
+  
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChrisRuff)](https://github.com/anuraghazra/github-readme-stats)
 
