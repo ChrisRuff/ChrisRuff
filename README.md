@@ -51,3 +51,6 @@ const experience = [
   * `[[nodiscard]] int keepReturnResult(int);`
   * `class Ex { int a{1}; int doesntChangeState() const { return a; } };` 
 * Another one of my interest is machine learning and I have quite a bit of experience using python to create neural networks.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChrisRuff)](https://github.com/anuraghazra/github-readme-stats)
+
