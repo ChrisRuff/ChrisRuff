@@ -57,5 +57,7 @@ const experience = [
 * Another one of my interest is machine learning and I have quite a bit of experience using python to create neural networks.
   
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChrisRuff)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris' github stats](https://github-readme-stats.vercel.app/api?username=ChrisRuff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRuff)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris' Language Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrisRuff)](https://github.com/anuraghazra/github-readme-stats)
 
