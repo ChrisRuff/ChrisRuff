@@ -6,7 +6,7 @@
 #include <vector> 
 #include <string_view>
 const std::vector<std::string_view> languages{
-  "C++", "C#", "C", "Java", "Javascript", "Python", "Bash"
+  "C++", "C#", "C", "Java", "Javascript", "Python", "Bash", "Matlab"
   }
 const std::vector<std::string_view> frameworks_tools{
   "Qt", "React", "Django", "Doctest", "CircleCI", "Tensorflow",
@@ -46,6 +46,15 @@ const experience = [
   "Project": "Mach85DIC AI Software",
   "Roles": ["Lead Developer"]
   "Description": "Created a deep learning software for Mach85"
+},
+{
+  "Languages": ["C"],
+  "Frameworks/Tools": ["Makefile", "MP_Lab"],
+  "Project": "PlantWaterer",
+  "Roles": ["Developer"],
+  "Description": "Developed a Plant Waterer using the dsPIC33CK256MP506 microcontroller",
+  "Features": ["Servo motor control", "ADC and DAC usage", "IR Controller", "Timers", 
+    "4 digit Seven segment display"]
 }]
 ```
 
